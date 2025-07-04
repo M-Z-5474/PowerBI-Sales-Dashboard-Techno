@@ -6,7 +6,7 @@ This repository contains a complete **end-to-end Business Intelligence solution*
 
 ## 📁 Project Contents
 
-- `Complete_Techno_Sales_Data.xlsx` – Raw dataset used in Power BI
+- `Complete_Techno_Sales_Data-2.xlsx` – Raw dataset used in Power BI
 - `Techno_Sales_Dashboard.pbix` – Power BI dashboard file
 - `dashboard_screenshot.png` – Screenshot of the final dashboard
 - `README.md` – This documentation
