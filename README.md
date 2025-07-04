@@ -62,7 +62,6 @@ To create an interactive and insightful sales dashboard that helps stakeholders:
 ┗ 📄 README.md
 
 ---
-![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 🧠 Learnings
 
