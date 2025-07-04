@@ -74,8 +74,11 @@ This project helped reinforce real-world BI techniques including:
 ## 🙋‍♂️ Contact
 
 This project was developed by 📬 Muhammad Zain Mushtaq.
+
 📧 Email: m.zainmushtaq74@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-zain-m-a75163358/
+
 ---
 
 ## 🌟 If you like this project, please consider giving it a ⭐ on GitHub!
